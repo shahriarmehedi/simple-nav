@@ -4,6 +4,7 @@
         "index": 0,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/1.png",
         "name": "Front-End Development",
+        "price": 5500,
         "text": "Complete frontend course with HTML, CSS, JavaScript and JavaScript framework React"
     },
     {
@@ -11,6 +12,7 @@
         "index": 1,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/2.png",
         "name": "Back-End Development",
+        "price": 5500,
         "text": "Complete backend course with Node JS, Django & MySQL"
     },
     {
@@ -18,6 +20,7 @@
         "index": 2,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/3.png",
         "name": "MERN Stack Development",
+        "price": 7500,
         "text": "Full stack developer course with MERN stack"
     },
     {
@@ -25,6 +28,7 @@
         "index": 3,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/4.png",
         "name": "Flutter App Development",
+        "price": 4500,
         "text": "Cross platform native app development with flutter"
     },
     {
@@ -32,6 +36,7 @@
         "index": 4,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/5.png",
         "name": "React Native Development",
+        "price": 4500,
         "text": "Cross platform native app development with React Native"
     },
     {
@@ -39,6 +44,7 @@
         "index": 5,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/6.png",
         "name": "Modern UI/UX Design",
+        "price": 3500,
         "text": "Modern & stylish user interface design with figma, Adobe XD & Photoshop"
     },
     {
@@ -46,6 +52,7 @@
         "index": 6,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/7.png",
         "name": "Master SEO",
+        "price": 3500,
         "text": "On page & Off page SEO course for mastering in web ranking"
     },
     {
@@ -53,6 +60,7 @@
         "index": 7,
         "picture": "https://raw.githubusercontent.com/shahriarmehedi/simple-nav/main/8.png",
         "name": "Digital Marketing",
+        "price": 2500,
         "text": "Complete digital marketing course for all of the major Platform"
     }
 ]
